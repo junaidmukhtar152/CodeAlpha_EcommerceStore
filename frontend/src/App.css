@@ -270,3 +270,11 @@ nav h2 {
     padding: 30px 15px;
   }
 }
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
